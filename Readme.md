@@ -4,6 +4,8 @@ This is the implementation of tsGCN proposed in our paper:
 
 Shiping Wang, Zhihao Wu, Yuhong Chen, and Yong Chen*, [Beyond Graph Convolutional Network: An Interpretable Regularizer-centered Optimization Framework](https://arxiv.org/abs/2301.04318), AAAI 2023.
 
+Full paper can be found [here](https://arxiv.org/abs/2301.04318).
+
 ## Requirement
 
   * Python == 3.9.12
