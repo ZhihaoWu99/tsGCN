@@ -2,9 +2,9 @@ Topological and Semantic Regularized Graph Convolutional Network
 ====
 This is the implementation of tsGCN proposed in our paper:
 
-Shiping Wang, Zhihao Wu, Yuhong Chen, and Yong Chen*, [Beyond Graph Convolutional Network: An Interpretable Regularizer-Centered Optimization Framework](https://arxiv.org/abs/2301.04318), AAAI 2023.
+Shiping Wang, Zhihao Wu, Yuhong Chen, and Yong Chen*, [Beyond Graph Convolutional Network: An Interpretable Regularizer-Centered Optimization Framework](https://ojs.aaai.org/index.php/AAAI/article/view/25593), AAAI 2023.
 
-Full paper can be found [here](https://arxiv.org/abs/2301.04318).
+Full paper can be found [HERE](https://arxiv.org/abs/2301.04318).
 
 ## Requirement
 
